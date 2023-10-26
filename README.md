@@ -53,13 +53,12 @@ Cheers to that offer email! 🥂
 ## Resources
 
 1. [A complete guide for companies that support visa sponsorship](https://github.com/AndrewStetsenko/tech-jobs-with-relocation)
-2- [A list of companies that provide visa sponsorship](https://docs.google.com/spreadsheets/d/1ZwNqYvW3136qbm5iAUAo6oe4rxgaS23W7O0lVX0N-7A/edit?usp=sharing)
-3- [A list of job portals](https://docs.google.com/spreadsheets/d/1pinwDYu6EHRT9cHtil6bnDPuzxt8nGIxp85j5vhqVlM/edit?usp=sharing)
-4- [My Github page](https://github.com/BabakBar)
-5- [My Personal Portfolio website](https://babakbar.github.io/)
-6- [My Cover Letter Sample](https://drive.google.com/file/d/1hSCGnH3EoAPz8IE2CfHwwCuotdMb-nq4/view?usp=sharing)
-
-7- And here you can see my resume evolution!
+2. [A list of companies that provide visa sponsorship](https://docs.google.com/spreadsheets/d/1ZwNqYvW3136qbm5iAUAo6oe4rxgaS23W7O0lVX0N-7A/edit?usp=sharing)
+3. [A list of job portals](https://docs.google.com/spreadsheets/d/1pinwDYu6EHRT9cHtil6bnDPuzxt8nGIxp85j5vhqVlM/edit?usp=sharing)
+4. [My Github page](https://github.com/BabakBar)
+5. [My Personal Portfolio website](https://babakbar.github.io/)
+6. [My Cover Letter Sample](https://drive.google.com/file/d/1hSCGnH3EoAPz8IE2CfHwwCuotdMb-nq4/view?usp=sharing)
+7. And here you can see my resume evolution!
 [Resume_2018](https://drive.google.com/file/d/1A1nI0NUcHXdgeFjJojdtyExonzO_0FH7/view?usp=sharing)
 [Resume_2020](https://drive.google.com/file/d/142nlvzPg0OXr9FEMCj0d_WabX2BgZ6NW/view?usp=sharing)
 [Resume_2022](https://drive.google.com/file/d/1VZUvr3cAaJEwUAivnDSq0KpwOMexA7vU/view?usp=sharing)
