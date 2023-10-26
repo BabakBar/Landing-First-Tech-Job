@@ -8,7 +8,7 @@ After working two years in Iran, I moved to Spain for a Technology Management ma
 
 ## The 'STAR' — Your Resume
 
-My first resume was a Microsoft Word horror show. That’s until I found the STAR method—Situation, Task, Action, Result. A good resume is a compelling story of your professional journey. Stick to one page, but make it pop. I created the last one with Canva.
+My first resume was a Microsoft Word horror show. That’s until I found the STAR method—Situation, Task, Action, Result. A good resume is a compelling story of your professional journey. Stick to one page, but make it pop. I created the last one with Canva (links at the end)
 
 ## Cover Letters: Less is More
 
